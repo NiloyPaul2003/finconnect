@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/finconnect/static/js/main.b1b8d840.js",
+    "main.js": "/finconnect/static/js/main.7a8b60f4.js",
     "index.html": "/finconnect/index.html",
-    "main.b1b8d840.js.map": "/finconnect/static/js/main.b1b8d840.js.map"
+    "main.7a8b60f4.js.map": "/finconnect/static/js/main.7a8b60f4.js.map"
   },
   "entrypoints": [
-    "static/js/main.b1b8d840.js"
+    "static/js/main.7a8b60f4.js"
   ]
 }
